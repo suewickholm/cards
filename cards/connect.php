@@ -1,7 +1,7 @@
 <?php
 function connect_db() {
  $servername = "localhost";
- $username = "1704456";
+ $username = "a1704456";
  $password = "zeJY9J99c";
  $dbname = " a1704456";
  // Create connection
